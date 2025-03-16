@@ -4,11 +4,18 @@ body{
     font-size: medium;
 }
 img{
-    width: 400px;
+    width: 500px;
     height: auto;
-    align-self: center;
 }
 h5{
     font-size: large;
     font-weight: 600;
+}
+h1 {
+    margin: 0 auto;
+    width: fit-content;
+}
+#recipes {
+    box-sizing: border-box;
+    text-align: center;
 }
